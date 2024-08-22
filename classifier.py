@@ -16,7 +16,7 @@ def remove_noise(tweet_tokens, stop_words=()):
         token = re.sub('(@[A-Za-z0-9]+)', '', token)
 
         if tag.startswith('NN'):
-            pos = 'n'
+            pos = 'n' 
         elif tag.startswith('VB'):
             pos = 'v'
         else:
