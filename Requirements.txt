@@ -1,1 +1,4 @@
-pip install lumibot==2.9.13
+lumibot==2.9.13
+tweepy==4.10.0
+nltk==3.8.1
+alpaca-trade-api==1.4.3
