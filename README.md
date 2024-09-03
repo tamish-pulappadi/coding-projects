@@ -7,15 +7,15 @@ This project implements an automated trading bot that leverages sentiment analys
 
 After running this bot for a time period of 7 weeks here are some observed key metrics: 
 
-Initial Portfolio Value: $5,000
-Final Portfolio Value: $5,730
-Total Profit: $730
-Return on Investment (ROI): 14.6%
-Average Weekly Return: 2.08%
-Total Number of Trades: 152
-Long Positions: 81
-Short Positions: 71
-Win Rate: 62% (94 winning trades, 58 losing trades)
+- Initial Portfolio Value: $5,000
+- Final Portfolio Value: $5,730
+- Total Profit: $730
+- Return on Investment (ROI): 14.6%
+- Average Weekly Return: 2.08%
+- Total Number of Trades: 152
+- Long Positions: 81
+- Short Positions: 71
+- Win Rate: 62% (94 winning trades, 58 losing trades)
 
 Although this seems good, these results are unlikley to mirror real world trades due to a host of reasons including market latency and limited data scope. Nonetheless, it was a fun project to implement.
 
